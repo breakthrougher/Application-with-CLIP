@@ -1,4 +1,4 @@
-CLIP 模型应用项目（Application with CLIP）
+# CLIP 模型应用项目（Application with CLIP）
 
 ## 一、项目背景
 本项目源于本人实习期间的相册功能复现工作，后续进一步完善后，用于数据挖掘课程的大作业，旨在探索 CLIP 模型在图像相关任务中的实际应用价值与性能表现。
