@@ -24,5 +24,5 @@
 - 需进行模型文件格式转换（如从.onnx 格式转为.rknn 格式）。
 格式转换的关键前提：初始的.onnx 模型必须是静态图；若为动态图，需先进行模型裁剪处理，确保符合 RKNN 的输入要求。
 
-- 项目完整代码可从以下链接下载：（其中附训练测试运行效果和UI演示效果）
-  - 链接: https://pan.baidu.com/s/1MjNHMVMNrmw1aIWU6pwcmQ?pwd=t376 提取码: t376
+最后，项目完整代码可从以下链接下载：（其中附训练测试运行效果和UI演示效果）
+- 链接: https://pan.baidu.com/s/1MjNHMVMNrmw1aIWU6pwcmQ?pwd=t376 提取码: t376
